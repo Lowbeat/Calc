@@ -10,6 +10,7 @@ namespace CalcBL
     {
          public static double Calculate(double x, double y, char action)
          {
+            Console.WriteLine("Hui");
              if (action == '+')
                  return x + y;
              else
