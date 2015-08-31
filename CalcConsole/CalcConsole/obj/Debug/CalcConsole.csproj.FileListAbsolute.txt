@@ -1,0 +1,11 @@
+D:\Education\1\CalcConsole\CalcConsole\bin\Debug\CalcConsole.exe.config
+D:\Education\1\CalcConsole\CalcConsole\bin\Debug\CalcConsole.exe
+D:\Education\1\CalcConsole\CalcConsole\bin\Debug\CalcConsole.pdb
+D:\Education\1\CalcConsole\CalcConsole\obj\Debug\CalcConsole.csprojResolveAssemblyReference.cache
+D:\Education\1\CalcConsole\CalcConsole\obj\Debug\CalcConsole.exe
+D:\Education\1\CalcConsole\CalcConsole\obj\Debug\CalcConsole.pdb
+D:\Education\1\CalcConsole\CalcConsole\bin\Debug\CalcBL.dll
+D:\Education\1\CalcConsole\CalcConsole\bin\Debug\CalcBL.pdb
+D:\Education\Calc\CalcConsole\CalcConsole\bin\Debug\CalcConsole.exe.config
+D:\Education\Calc\CalcConsole\CalcConsole\obj\Debug\CalcConsole.exe
+D:\Education\Calc\CalcConsole\CalcConsole\obj\Debug\CalcConsole.pdb

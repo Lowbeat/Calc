@@ -1,0 +1,5 @@
+D:\Education\1\CalcBL\CalcBL\bin\Debug\CalcBL.dll
+D:\Education\1\CalcBL\CalcBL\bin\Debug\CalcBL.pdb
+D:\Education\1\CalcBL\CalcBL\obj\Debug\CalcBL.csprojResolveAssemblyReference.cache
+D:\Education\1\CalcBL\CalcBL\obj\Debug\CalcBL.dll
+D:\Education\1\CalcBL\CalcBL\obj\Debug\CalcBL.pdb
