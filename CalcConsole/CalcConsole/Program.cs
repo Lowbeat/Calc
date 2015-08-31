@@ -13,11 +13,11 @@ namespace CalcConsole
 
         private static void Main(string[] args)
         {
-            Console.WriteLine("Type first number");
+            Console.WriteLine("Type first number:");
             var x = GetNumber();
-            Console.WriteLine("\nType action symbol");
+            Console.WriteLine("\nType action symbol:");
             var action = GetActionSymbol();
-            Console.WriteLine("\nType second number");
+            Console.WriteLine("\nType second number:");
             var y = GetNumber();
             Console.WriteLine(Calculator.Calculate(x, y, action));
             Console.ReadKey();
